@@ -5,4 +5,5 @@ I used to code on them for 2 years (i'm not going back)
 <h3 align = "center">•What am I using?</h3>
 Browser: <img src = "https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
 
-Studying languages: <img src = "https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white">
+Studying languages: 
+<img src = "https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white">
