@@ -16,6 +16,7 @@ Studying languages:
 <img src = "https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white">
 
 Gaming: 
+  
   CPU:
     
   <img src = "https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white">
